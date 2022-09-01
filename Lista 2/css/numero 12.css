@@ -1,0 +1,30 @@
+#bola {
+    border-radius: 50%;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+#quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 50px;
+    display: inline-table;
+    margin: 0;
+    padding: 0;
+    border-radius: 10%;
+
+}
+
+#logo {
+    position: absolute;
+    top: center;
+    left: center;
+}
+
+#texto {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

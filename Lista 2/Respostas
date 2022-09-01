@@ -1,0 +1,30 @@
+Nome: Nattan Mendes Tinonin
+
+1 - O CSS inline é o css que é ativado direto na tag do HTML e somente é aplicado a ela;
+    O CSS interno é o css que colocamos no head da página HTML para os elementos dela;
+    O CSS externo é um arquivo CSS referenciamos no inicio na página e podemos utilizar os estilos dele em várias tags.
+
+2 - numero 2.html
+
+3 - Serão aplicados de acordo com a prioridade, que é: inline, interno e externo.
+
+4 - O tamanho dos backgrounds dos h1 aumentará para 100px por 100px, entretando a visualização para o usuário será a mesma.
+
+5 - A função do background repeat é definir o que acontecerá caso o tamanho máximo do background seja atingido, permintindo tanto repetir o fundo, estica-lo ou não fazer nada. Exemplo: numero 5.html
+
+6 - Facilita a organização do código;
+    Não é mais necessário ficar reescrevendo a forma com que os elementos devem aparecer na tela, permitindo assim uma reutilização de código;
+    Facilita a manutenibilidade do código ao corrigir somente a tag incorreta.
+
+7 - A propriedade background-color altera a cor de background de uma tag informada;
+    A propriedade font-family altera a família da fonte do texto inserido na tag informada.
+
+8 - D
+
+9 - Os parágrafos terão a cor branca como cor de fonte, cor de fundo vermelha e serão de fonte Arial.
+
+10 - numero 10.html
+
+11 - numero 11.html
+
+12 - numero 12.html
