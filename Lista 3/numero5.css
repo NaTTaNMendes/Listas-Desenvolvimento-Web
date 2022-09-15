@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+}
+
+#div1 {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 50%);
+    top: 0px;
+    left: 0px;
+}
+
+#div2 {
+    background: linear-gradient(90deg, red 0%, green 50%);
+    top: 0px;
+    right: 0px;
+}
+
+#div3 {
+    background: linear-gradient(90deg, yellow 0%, gray 50%);
+    top: 50%;
+    left: 50%;
+    margin-top: -15px;
+    margin-left: -15px;
+}
+
+#div4 {
+    background: linear-gradient(90deg, brown 0%, pink 50%);
+    bottom: 0px;
+    left: 0px;
+}
+
+#div5 {
+    background: linear-gradient(90deg, blue 0%, white 50%);
+    bottom: 0px;
+    right: 0px;
+}

@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+}
+
+#div1 {
+    background-color: green;
+    top: 0px;
+    left: 0px;
+}
+
+#div2 {
+    background-color: blue;
+    top: 0px;
+    right: 0px;
+}
+
+#div3 {
+    background-color: red;
+    top: 50%;
+    left: 50%;
+    margin-top: -15px;
+    margin-left: -15px;
+}
+
+#div4 {
+    background-color: yellow;
+    bottom: 0px;
+    left: 0px;
+}
+
+#div5 {
+    background-color: purple;
+    bottom: 0px;
+    right: 0px;
+}
