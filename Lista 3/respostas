@@ -1,2 +1,4 @@
 2 - A
-4 - 
+4 - E
+6 - O <footer> será reconhecido pelos navegadores e pelos leitores de tela como o local de rodapé da página, facilitando a vida de usuários com deficiência ou a pesquisa nos navegadores.
+    O <div id="footer"> terá um funcionamento parecido para o desenvolvedor e para o usuário comum, entretando não terá as vantagens acima citadas.
