@@ -1,0 +1,12 @@
+1  - A
+2  - B 
+3  - E
+4  - A
+5  - Código
+6  - B
+7  - Código
+8  - Código
+9  - Código
+10 - Código
+11 - var tem escopo global e let tem escopo de bloco, além de as variáveis var poderem ser redeclaradas.
+12 - O da esquerda é melhor pois ele acessa a função arr.lenght() apenas uma vez, enquanto o da direita o acessa todas as vezes que é reiniciado o loop, gastando muito mais recursos da máquina do que o da esquerda.
